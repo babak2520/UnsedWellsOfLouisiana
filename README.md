@@ -9,7 +9,6 @@ Currently, there are two folders within which some code and data exist. The fold
 Prerequisites
 Only Python and Pandas libraries are needed to run these notebooks. You can try them with other types of files downloaded from the web including, but not limited to, Louisiana Department of Natural Resources.
 
-Built With
 
 
 
